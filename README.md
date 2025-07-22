@@ -14,7 +14,7 @@ This project demonstrates **data cleaning** and **exploratory data analysis (EDA
 ## 📁 Dataset
 
 The dataset used is the **Titanic Dataset** from Kaggle:  
-[Titanic - Machine Learning from Disaster](https://www.kaggle.com/competitions/titanic/data)
+[Titanic-Dataset](https://www.kaggle.com/datasets/yasserh/titanic-dataset)
 
 ---
 
