@@ -71,5 +71,5 @@ _Add plot images here if available in `/images` folder._
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/titanic-eda.git
+   git clone https://github.com/Suleman2004k/titanic-eda.git
    cd titanic-eda
